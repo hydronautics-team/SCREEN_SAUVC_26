@@ -1,2 +1,4 @@
-Record=TopLevelDocument|FileName=power.SchDoc|SheetNumber=2
-Record=NoMainPathDocument|SourceDocument=power.SchDoc|FileName=Sheet1.SchDoc|SheetNumber=1
+Record=TopLevelDocument|FileName=buttons_and_leds.SchDoc|SheetNumber=2
+Record=NoMainPathDocument|SourceDocument=buttons_and_leds.SchDoc|FileName=MCU.SchDoc|SheetNumber=4
+Record=NoMainPathDocument|SourceDocument=buttons_and_leds.SchDoc|FileName=power.SchDoc|SheetNumber=1
+Record=NoMainPathDocument|SourceDocument=buttons_and_leds.SchDoc|FileName=RS485.SchDoc|SheetNumber=3
