@@ -1,3 +1,4 @@
 Record=TopLevelDocument|FileName=buttons_and_leds.SchDoc|SheetNumber=2
+Record=NoMainPathDocument|SourceDocument=buttons_and_leds.SchDoc|FileName=connectors.SchDoc|SheetNumber=4
 Record=NoMainPathDocument|SourceDocument=buttons_and_leds.SchDoc|FileName=MCU.SchDoc|SheetNumber=3
 Record=NoMainPathDocument|SourceDocument=buttons_and_leds.SchDoc|FileName=power.SchDoc|SheetNumber=1
