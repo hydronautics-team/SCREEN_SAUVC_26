@@ -363,7 +363,7 @@ DocumentReferenceClass1=DocumentReference
 OutputJobFileName1=HydroJob.OutJob
 ContentTypeGUID=0D12F8DC-E60C-11DF-B822-12313F0024A2
 ConfigurationType=Assembly
-LocalReleaseTarget=ГИДР.123456.016-01.01
+LocalReleaseTarget=ГИДР.123456.020-01.01
 
 [Configuration4]
 Name=Assembly
