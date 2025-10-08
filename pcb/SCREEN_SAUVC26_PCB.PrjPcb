@@ -305,32 +305,32 @@ DocumentPath=Project Outputs for SCREEN_SAUVC26_PCB\Design Rule Check - screen_b
 DItemRevisionGUID=
 
 [Parameter1]
-Name=CheckedBy
-Value=
+Name=Version
+Value=01
 
 [Parameter2]
-Name=Decimal_Number_PCB
-Value=ГИДР.123456.016
+Name=Title
+Value=Плата экрана
 
 [Parameter3]
-Name=Decimal_Number_Shematic
-Value=ГИДР.123456.016
+Name=Release_Date
+Value=07.10.2025
 
 [Parameter4]
 Name=DrawnBy
 Value=Соловьев М.
 
 [Parameter5]
-Name=Release_Date
-Value=07.10.2025
+Name=Decimal_Number_Shematic
+Value=ГИДР.123456.020
 
 [Parameter6]
-Name=Title
-Value=Плата экрана
+Name=Decimal_Number_PCB
+Value=ГИДР.123456.019
 
 [Parameter7]
-Name=Version
-Value=01
+Name=CheckedBy
+Value=
 
 [Configuration1]
 Name=Sources
